@@ -8,7 +8,7 @@ public class RestController {
 	
 	@GetMapping("/hello")
 	public String getMessage() {
-		return "Hello learning AWSCICD -v1";
+		return "Hello learning AWSCICD -v2";
 	}
 
 }
